@@ -1,0 +1,3 @@
+Projeto de calculadora simples que usa o mesmo layout da calculadora do windows, 
+com orientação a objetos com a a linguagem JavaScript juntamente com HTML e CSS, 
+utilizando também interação através do DOM para capturar eventos do HTML no JS
